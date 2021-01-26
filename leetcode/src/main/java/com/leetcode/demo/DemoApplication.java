@@ -1,4 +1,4 @@
-package com.leecode.demo;
+package com.leetcode.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
